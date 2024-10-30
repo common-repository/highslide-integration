@@ -1,0 +1,127 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Highslide Integration in italiano\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-05-22 22:22+0100\n"
+"PO-Revision-Date: 2010-05-23 22:21+0100\n"
+"Last-Translator: Gianni Diurno (aka gidibao) <gidibao[at]gmail[dot]com>\n"
+"Language-Team: Gianni Diurno | gidibao.net <gidibao[at]gmail[dot]com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: Italian\n"
+"X-Poedit-Country: ITALY\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: highslide-integration.php:87
+msgid "ltr"
+msgstr "ltr"
+
+#: highslide-integration.php:88
+msgid "loading..."
+msgstr "loading..."
+
+#: highslide-integration.php:89
+msgid "click to cancel"
+msgstr "clicca per annullare"
+
+#: highslide-integration.php:90
+msgid "click to bring to front"
+msgstr "clicca per portare davanti"
+
+#: highslide-integration.php:91
+msgid "expand to original size"
+msgstr "espandi alla dimensione originale"
+
+#: highslide-integration.php:92
+msgid "powered by Highslide JS"
+msgstr "powered by Highslide JS"
+
+#: highslide-integration.php:93
+msgid "visit Highslide JS website"
+msgstr "visita il sito di Highslide JS"
+
+#: highslide-integration.php:94
+msgid "previous"
+msgstr "precedente"
+
+#: highslide-integration.php:95
+msgid "next"
+msgstr "successiva"
+
+#: highslide-integration.php:96
+#: highslide-integration.php:106
+msgid "move"
+msgstr "sposta"
+
+#: highslide-integration.php:97
+msgid "close"
+msgstr "chiudi"
+
+#: highslide-integration.php:98
+msgid "close (ESC)"
+msgstr "chiudi (Esc)"
+
+#: highslide-integration.php:99
+msgid "resize"
+msgstr "ridimensiona"
+
+#: highslide-integration.php:100
+msgid "play"
+msgstr "riproduci"
+
+#: highslide-integration.php:101
+msgid "play slideshow (SPACEBAR)"
+msgstr "riproduci presentazione (barra spaziatrice)"
+
+#: highslide-integration.php:102
+msgid "pause"
+msgstr "pausa"
+
+#: highslide-integration.php:103
+msgid "pause slideshow (SPACEBAR)"
+msgstr "pausa presentazione (barra spaziatrice)"
+
+#: highslide-integration.php:104
+msgid "previous (ARROW LEFT)"
+msgstr "precedente (freccia sinistra)"
+
+#: highslide-integration.php:105
+msgid "next (ARROW RIGHT)"
+msgstr "successiva (freccia destra)"
+
+#: highslide-integration.php:107
+msgid "fullscreen"
+msgstr "schermo intero"
+
+#: highslide-integration.php:108
+msgid "picture %1 of %2"
+msgstr "immagine %1 di %2"
+
+#: highslide-integration.php:109
+msgid "Click to close image, click und drag to move. Use ARROW keys for previous and next."
+msgstr "Clicca per chiiudere l'immagine, clicca e trascina per spostare. Urilizza le FRECCIE per precedente e successiva."
+
+#: highslide-integration.php:206
+msgid "Donate"
+msgstr "Donazioni"
+
+#: highslide-integration.php:209
+msgid "You like this plugin? By me a beer by clicking on the donate button."
+msgstr "Hai gradito questo plugin? Offrimi una birra cliccando sul pulsante donazione."
+
+#: highslide-integration.php:221
+msgid "Highslide JS settings"
+msgstr "Impostazioni Highslide JS"
+
+#: highslide-integration.php:225
+#, php-format
+msgid "Customize the appearance of Highslide JS. Use JavaScript. Visit <a href=\"%s\">%s</a> to read more."
+msgstr "Personalizza l'aspetto di Highslide JS. Utilizzo JavaScript. Visita <a href=\"%s\">%s</a> per saperne di più."
+
+#: highslide-integration.php:234
+msgid "Save settings"
+msgstr "Salva le impostazioni"
+
